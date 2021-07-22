@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`endpoints work [post] endpoints work posting to endpoint returns a hobbit 1`] = `
+Object {
+  "id": 5,
+  "name": "jaden",
+}
+`;
